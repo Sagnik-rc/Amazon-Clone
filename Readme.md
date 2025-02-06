@@ -27,7 +27,7 @@ A fully responsive Amazon website clone built using **HTML & CSS** while learnin
 ## 🚀 How to Run the Project
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/amazon-clone.git
+   git clone https://github.com/Sagnik-rc/Amazon-Clone.git
    ```
 2. **Navigate to the Project Folder:**
    ```sh
