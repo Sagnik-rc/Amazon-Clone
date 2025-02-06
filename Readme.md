@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone
 
-A fully responsive Amazon website clone built using **HTML & CSS** while learning from Apna College.
+A fully responsive [Amazon](https://cl-one-ama-zon.vercel.app/) website clone built using **HTML & CSS** while learning from Apna College.
 
 ---
 
